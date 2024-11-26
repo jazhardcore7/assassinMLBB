@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AssassinMLBB" parent="Theme.Material3.DayNight">
+        <item name="backgroundColor">#162524</item>
+        <item name="colorPrimary">#3AF8F8</item>
+        <item name="colorSecondary">#DFD9CB</item>
+        <item name="colorPrimaryContainer">#162524</item>
+    </style>
+
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/splash_background_color</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_background</item>
+        <item name="postSplashScreenTheme">@style/Theme.AssassinMLBB</item>
+    </style>
+
+    <style name="Theme.AssassinMLBB" parent="Base.Theme.AssassinMLBB" />
+</resources>

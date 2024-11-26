@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">assassinMLBB</string>
+    <string name="creator_name">Ahmad Bintara Mansur</string>
+
+    <string name="hero_name">Nama Hero</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Saber</item>
+        <item>Gusion</item>
+        <item>Fanny</item>
+        <item>Lancelot</item>
+        <item>Ling</item>
+        <item>Hayabusa</item>
+        <item>Joy</item>
+        <item>Karina</item>
+        <item>Nolan</item>
+        <item>Helcurt</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Saber adalah hero dengan tubuh dari robot yang terinspirasi dari film Robocop, dia memakai 2 pedang dan mampu menebas pertahanan lawan dengan pasifnya yang mengurasi armor musuh</item>
+        <item>Gusion adalah hero dengan kemampuan combo cepat menggunakan pisau belati yang dilemparkan kepada musuh. Bermain Gusion membutuhkan kecepatan tangan dan fokus untuk melakukan combo burst dalam waktu singkat. Gusion biasanya bermain di mid lane atau jungle, tergantung strategi tim.</item>
+        <item>Fanny menggunakan kabel untuk melesat di medan perang, memungkinkan mobilitas yang luar biasa. Dengan pedangnya, ia dapat menghabisi musuh dalam sekejap. Dalam bermain Fanny, latihan dalam menggunakan kabel sangat penting. Fanny sering dimainkan sebagai hero jungle karena rotasi yang cepat, namun dia juga bisa roam ke berbagai lane untuk membantu teman</item>
+        <item>Lancelot adalah hero dengan kemampuan dash yang sangat cepat, membuatnya sulit ditangkap. Senjata andalannya adalah rapier, pedang yang ringan dan tajam. Saat bermain Lancelot, manfaatkan skill untuk menyerang musuh dengan cepat, lalu kabur sebelum mereka bisa membalas. Idealnya, Lancelot bermain di lane jungle untuk mendapatkan buff dan rotasi cepat.</item>
+        <item>Ling adalah assassin yang dapat melompat di dinding dan menyerang dari sudut yang tidak terduga. Menguasai pedang Ring Blade, Ling sangat bergantung pada energy untuk terus melancarkan serangannya. Dalam permainan, Ling sangat cocok berada di jungle karena kemampuannya untuk berpindah tempat dengan cepat dan menyerang dari belakang.</item>
+        <item>Hayabusa adalah ninja yang menggunakan bayangan untuk menyerang dan kabur dari musuh. Dengan shuriken sebagai senjata utamanya, Hayabusa sangat berbahaya dalam duel satu lawan satu. Bermain di lane exp atau jungle, Hayabusa biasanya fokus untuk membunuh hero musuh di mid dan carry lawan.</item>
+        <item>Joy adalah hero assassin dengan kemampuan elektrik yang lincah dan mematikan. Dia menyerang menggunakan beat musiknya yang energik, membuat lawan terperangkap. Bermain Joy membutuhkan kecepatan dalam combo skill-nya. Biasanya, Joy bermain di exp lane, di mana ia bisa berkembang cepat untuk bergabung dalam team fight.</item>
+        <item>Karina adalah assassin elf yang menggunakan dua bilah pedang besar untuk menghabisi musuhnya. Dia sangat mematikan dalam duel karena kemampuan burst damage-nya yang tinggi. Sebagai Karina, fokuslah pada laning di jungle untuk mendapatkan gold dan exp dengan cepat, sebelum menyerang marksman atau mage lawan..</item>
+        <item>Nolan adalah seorang Cosmic Finder, memiliki kemampuan membelah galaksi dengan kekuatannya. Dengan senjata energy blade-nya, Nolan sangat mematikan di pertarungan jarak dekat. Biasanya, Nolan lebih baik dimainkan di mid lane, karena skill-nya bisa membersihkan creep dengan cepat dan mendominasi lawan di lane.</item>
+        <item>Helcurt adalah assassin yang bisa menyerang dari kegelapan, membuat lawan kebingungan. Menggunakan senjata berbentuk cakram, Helcurt bisa memberikan damage tinggi dalam sekejap. Helcurt sangat cocok untuk bermain di jungle, dan fokuslah untuk mengisolasi musuh yang terpisah dari tim mereka.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero031-portrait.png/revision/latest?cb=20240602234619</item>
+        <item>https://liquipedia.net/commons/images/thumb/4/46/Gusion_infobox.jpg/900px-Gusion_infobox.jpg</item>
+        <item>https://i.pinimg.com/736x/d9/41/ba/d941bae73bfeffba0b8d14e2a28991a0.jpg</item>
+        <item>https://i.pinimg.com/474x/48/11/c0/4811c00c708dec61cb3f05eff1ac57f7.jpg</item>
+        <item>https://i.pinimg.com/originals/82/d9/92/82d992101167c1551088850d3692fb23.jpg</item>
+        <item>https://i.pinimg.com/474x/be/eb/8d/beeb8d447940762694ce5a592cd01a20.jpg</item>
+        <item>https://liquipedia.net/commons/images/8/83/Joy_infobox.jpg</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero081-portrait.png/revision/latest?cb=20240605133151</item>
+        <item>https://liquipedia.net/commons/images/thumb/6/60/Nolan_infobox.jpeg/600px-Nolan_infobox.jpeg</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero511-portrait.png/revision/latest?cb=20240502101747</item>
+    </string-array>
+
+    <string-array name="data_role">
+        <item>Assassin</item>
+        <item>Assassin/Mage</item>
+        <item>Assassin</item>
+        <item>Assassin</item>
+        <item>Assassin</item>
+        <item>Assassin</item>
+        <item>Assassin/Mage</item>
+        <item>Assassin/Mage</item>
+        <item>Assassin</item>
+        <item>Assassin</item>
+    </string-array>
+
+    <integer-array name="data_urut_hero">
+        <item>8</item>
+        <item>34</item>
+        <item>15</item>
+        <item>62</item>
+        <item>22</item>
+        <item>45</item>
+        <item>87</item>
+        <item>45</item>
+        <item>82</item>
+        <item>32</item>
+    </integer-array>
+
+    <integer-array name="data_tahun_rilis">
+        <item>2016</item>
+        <item>2017</item>
+        <item>2016</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2017</item>
+        <item>2022</item>
+        <item>2016</item>
+        <item>2023</item>
+        <item>2018</item>
+    </integer-array>
+
+    <string-array name="data_kisah_hero">
+
+        <item>Saber adalah ksatria yang memiliki keahlian bertarung luar biasa dengan pedangnya. Terlahir dari keluarga bangsawan, ia menyaksikan kematian gurunya di tangan musuh. Dengan tekad untuk membalas dendam, Saber berlatih keras dan mengasah kemampuannya. Dia berjuang untuk melindungi yang lemah dan mengembalikan kehormatan, menjadikannya salah satu pahlawan terhebat di Land of Dawn.</item>
+        <item>Gusion adalah seorang assassin brilian yang dikenal karena kecepatan dan kecerdasannya. Menjadi anggota keluarga kerajaan, hidupnya berubah ketika keluarganya dibunuh. Dia meninggalkan kehidupan nyaman demi membalas dendam dan melawan kejahatan. Menggunakan pisau yang dapat dikendalikan, Gusion menyerang musuhnya dengan kecepatan luar biasa, membuatnya menjadi bayangan mematikan yang selalu siap menghabisi lawan.</item>
+        <item>Fanny adalah gadis muda yang bercita-cita menjadi petarung terhebat. Memiliki kemampuan luar biasa dalam menggunakan tali energi, ia dapat bergerak cepat di udara. Dengan tekad yang kuat, Fanny berusaha mengatasi berbagai tantangan demi melindungi orang-orang terkasihnya. Semangat petualangan dan keberaniannya menjadikannya sosok yang unik di medan perang, siap menghadapi apapun demi keadilan.</item>
+        <item>Lancelot adalah ksatria elegan dengan bakat luar biasa dalam bertarung. Terpesona oleh seni bela diri, ia bertekad membuktikan dirinya sebagai pejuang terhebat. Keanggunan gerakannya di medan perang dan keterampilan pedang yang tak tertandingi menjadikannya simbol keberanian. Lancelot tidak hanya bertarung untuk kehormatan, tetapi juga untuk melindungi yang lemah dari ancaman kegelapan.</item>
+        <item>Ling adalah seorang ninja terlatih yang ahli dalam bersembunyi dan menyerang dengan cepat. Dengan kemampuan untuk melompat dari dinding dan menghindari serangan musuh, dia menjadi ancaman yang mematikan. Ling berjuang untuk menjaga kehormatan klannya dan menegakkan keadilan. Keberanian dan dedikasinya menjadikannya pahlawan yang tak terduga di Land of Dawn.</item>
+        <item>Hayabusa adalah ninja legendaris dengan kekuatan luar biasa dan teknik bertarung yang efisien. Mengabdikan hidupnya untuk melindungi yang lemah, dia berjuang melawan kejahatan. Keahlian teleportasinya memungkinkannya muncul dan menghilang dengan cepat di medan perang. Dengan misi untuk membalas dendam, Hayabusa menjadi simbol harapan dan keberanian bagi mereka yang tersakiti.</item>
+        <item>Joy adalah petarung muda yang penuh semangat dan imajinasi. Dia menggunakan gadget unik untuk mengalahkan musuh, menjadikan setiap pertarungan sebagai kesempatan untuk berinovasi. Meski terlihat ceria, Joy memiliki tekad kuat untuk melindungi teman-temannya dan menghadapi berbagai tantangan. Keceriaan dan keberaniannya membuatnya menjadi sosok yang menginspirasi di Land of Dawn.</item>
+        <item>Karina adalah penyihir kegelapan yang mengendalikan bayangan. Setelah kehilangan orang-orang terkasih, dia terjebak dalam rasa sakit dan balas dendam. Karina berjuang melawan musuh dengan kekuatan gelap yang dimilikinya, berusaha mencari cara untuk mengatasi kesedihan dan menemukan kedamaian. Misi utamanya adalah menegakkan keadilan dan menghapus semua kejahatan di sekitarnya.</item>
+        <item>Nolan adalah pejuang kuat dengan ketahanan fisik yang luar biasa. Dia dikenal sebagai pelindung sejati yang berjuang untuk melindungi teman-temannya dari ancaman. Dengan semangat juang dan keberanian, Nolan selalu siap menghadapi musuh di medan perang. Dia percaya bahwa dengan ketahanan dan tekad, ia bisa mengubah arus pertempuran dan membawa kemenangan bagi rekan-rekannya.</item>
+        <item>Helcurt adalah raja kegelapan yang ditakuti di seluruh Land of Dawn. Dia mengendalikan kegelapan dan bergerak cepat, menyerang musuhnya tanpa ampun. Dengan misi untuk menaklukkan dunia dan mengubahnya menjadi wilayah kegelapan, Helcurt memperjuangkan visinya dengan kekuatan, ketegasan, dan strategi yang licik. Ketidakberdayaan musuhnya adalah bukti kekuatannya yang menakutkan.</item>
+    </string-array>
+
+</resources>
